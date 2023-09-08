@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&locale=uk&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&locale=uk&date_format=j%20M%5B%20Y%5D&card_width=100%)](https://git.io/streak-stats)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
