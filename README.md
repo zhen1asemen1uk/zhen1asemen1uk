@@ -1,10 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text=Hey! Nice to see you %20%20%F0%9F%91%8B%F0%9F%8F%BB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text=Hey!%20Nice%20to%20see%20you%20%F0%9F%91%8B%F0%9F%8F%BB" />
 
 ### Welcome to my page!
+
 ### I'm Yevhen, Fullstack developer from Ukraine 🇺🇦, currently living in Kyiv.
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=450&fire=EB0202&ring=FF8332" />
+    <img src="https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=500&fire=EB0202&ring=FF8332" />
 </p>
 
 #### Front-End
@@ -13,7 +14,7 @@
 
 #### Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,docker,mysql,mongodb,postgres,sentry,postman,md,firebase,git,stackoverflow,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mysql,mongodb,js,postgres,sentry,md,firebase,ts,git,stackoverflow,netlify,vscode)](https://skillicons.dev)
 
 #### Testing
 
@@ -33,5 +34,5 @@
 </p>
 
 <p align="center">
-    <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/zhen1asemen1uk" />
+    <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" />
 </p>
