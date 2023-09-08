@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&locale=uk&date_format=j%20M%5B%20Y%5D&card_width=100%)](https://git.io/streak-stats)
+<p align="center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&locale=en&date_format=j%20M%5B%20Y%5D&card_width=300)](https://git.io/streak-stats)
+</p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhen1asemen1uk)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
