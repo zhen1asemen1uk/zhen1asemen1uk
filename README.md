@@ -1,28 +1,22 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text=Hi%20dear%20friend%20%20%F0%9F%91%8B%F0%9F%8F%BB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text=Hey! Nice to see you %20%20%F0%9F%91%8B%F0%9F%8F%BB" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text= Hey! Nice to see you." />
-
-
-Welcome to my page!
-I'm Yevhen, Fullstack developer from  Ukraine 🇺🇦, currently living in  Kyiv.
-
-
+### Welcome to my page!
+### I'm Yevhen, Fullstack developer from Ukraine 🇺🇦, currently living in Kyiv.
 
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=450&fire=EB0202&ring=FF8332" />
 </p>
 
+#### Front-End
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1asemen1uk&layout=compact)]
-
-## Front-End
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,styledcomponents,html,css,firebase,git,fastapi,postman,stackoverflow,vscode,figma)](https://skillicons.dev)
 
-## Back-End
+#### Back-End
+
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,js,ts,docker,mysql,mongodb,postgres,sentry,postman,md,firebase,git,stackoverflow,netlify,vscode)](https://skillicons.dev)
 
-## Testing
+#### Testing
+
 <div align="center">
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" alt="Cypress" title="Cypress"/></code>
@@ -32,6 +26,12 @@ I'm Yevhen, Fullstack developer from  Ukraine 🇺🇦, currently living in  Kyi
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/187955005-f4ca6f1a-e727-497b-b81b-93fb9726268e.png" alt="Jest" title="Jest"/></code>
 </div>
 
-<div align="center">
-[![Hits](https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/zhen1asemen1uk)
-</div>
+#### Top Langs
+
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1asemen1uk&layout=compact" />
+</p>
+
+<p align="center">
+    <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg)](https://u8views.com/github/zhen1asemen1uk" />
+</p>
