@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-<p align="center">
-[![GitHub Streak](https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&locale=en&date_format=j%20M%5B%20Y%5D&card_width=300)](https://git.io/streak-stats)
-</p>
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+<div style="text-align:center">
+[![GitHub Streak](https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=300&fire=EB0202&ring=FF8332)](https://git.io/streak-stats)
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zhen1asemen1uk)](https://github.com/anuraghazra/github-readme-stats)
 
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
