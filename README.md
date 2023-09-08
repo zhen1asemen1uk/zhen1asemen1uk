@@ -10,11 +10,11 @@
 
 #### Front-End
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,styledcomponents,html,css,firebase,git,fastapi,postman,stackoverflow,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,redux,js,ts,styledcomponents,html,css,stackoverflow,firebase,git,fastapi,postman,vscode,figma)](https://skillicons.dev)
 
 #### Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mysql,mongodb,js,postgres,sentry,md,firebase,ts,git,stackoverflow,netlify,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,docker,mysql,mongodb,js,postgres,sentry,vscode,md,ts,git,stackoverflow,netlify,firebase)](https://skillicons.dev)
 
 #### Testing
 
@@ -30,7 +30,7 @@
 #### Top Langs
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1asemen1uk&layout=compact" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1asemen1uk&layout=pie" />
 </p>
 
 <p align="center">
