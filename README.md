@@ -18,6 +18,9 @@ Now I have experience with:
 - charity sites (Front-End)
 - different platforms (job search, leaving reviews about the service) (Front-End)
 - telegram bots (for recording a car wash, for monitoring holidays and gifts from the company to employees) (Back-End)
+- create chat and notifications with WebSockets
+- settings the checkers using CI/CD with GitHub Actions (DevOps)
+- deploy projects on different platforms (DevOps)
 - coverage of the site with tests (e2e testing)
 
 <p align="center">
