@@ -4,9 +4,28 @@
 
 ### I'm Yevhen, Fullstack developer from Ukraine 🇺🇦, currently living in Kyiv.
 
+### Short about me
+I started my career at the **ITeam** company, where I got my first practical skills in site layout, working with JS and WebSocket logic on the Front-End part and in animations. 
+
+Then in the company **PM Digital Transformation**, I developed and grew as Front End Lead. Here I took on more responsibility, trained new employees, and worked closely with the backend team to create websites, platforms, online stores, and charity sites with multilingual and WebSocket and other technologies.
+
+I am currently working for **Upwork**, where I have gained much experience in communication with clients and in international projects. 
+
+Now I have experience with:
+- creating a customized QR generator (Front-End)
+- business tool for time management (FullStack)
+- webshops (Front-End)
+- charity sites (Front-End)
+- different platforms (job search, leaving reviews about the service) (Front-End)
+- telegram bots (for recording a car wash, for monitoring holidays and gifts from the company to employees) (Back-End)
+- coverage of the site with tests (e2e testing)
+
 <p align="center">
     <img src="https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=500&fire=EB0202&ring=FF8332" />
 </p>
+
+
+### Some of my technologies
 
 #### Front-End
 
