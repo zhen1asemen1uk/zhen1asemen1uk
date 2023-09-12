@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text=Hey!%20Nice%20to%20see%20you%20%F0%9F%91%8B%F0%9F%8F%BB" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D864B&height=200&section=header&animation=fadeIn&text=Hey!%20Nice%20to%20see%20you%20%F0%9F%91%8B%F0%9F%8F%BB" alt="Hey! Nice to see you 👋🏻"/>
 
 ### Welcome to my page!
 
@@ -24,7 +24,7 @@ Now I have experience with:
 - coverage of the site with tests (e2e testing)
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=500&fire=EB0202&ring=FF8332" />
+    <img src="https://streak-stats.demolab.com?user=zhen1asemen1uk&theme=transparent&hide_border=true&card_width=500&fire=EB0202&ring=FF8332" alt="Here must be my streak stats 🙂"/>
 </p>
 
 
@@ -52,9 +52,9 @@ Now I have experience with:
 #### Top Langs
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1asemen1uk&layout=pie" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhen1asemen1uk&layout=pie" alt="Hover here and it's must work 🙂"/>
 </p>
 
 <p align="center">
-    <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" />
+    <img src="https://u8views.com/api/v1/github/profiles/63663261/views/day-week-month-total-count.svg" alt="Here must be some numbers about views this page"/>
 </p>
