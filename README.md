@@ -5,11 +5,10 @@
 ### I'm Yevhen, Fullstack developer from Ukraine 🇺🇦, currently living in Kyiv.
 
 ### Short about me 🤷🏼‍♂️
-I started my career at the **ITeam** company, where I got my first practical skills in site layout, working with JS and WebSocket logic on the Front-End part and in animations. 
 
-Then in the company **PM Digital Transformation**, I developed and grew as Front End Lead. Here I took on more responsibility, trained new employees, and worked closely with the backend team to create websites, platforms, online stores, and charity sites with multilingual and WebSocket and other technologies.
+I began my career at **PM Digital Transformation**, where I acquired my initial practical skills in website layout, JavaScript development, and WebSocket logic on the Front-End. I also gained experience in creating animations. During my tenure at the company, I progressed and eventually took on the role of **Front-End Lead**. In this capacity, I assumed greater responsibilities, mentored new team members, and collaborated closely with the backend team to develop websites, platforms, online stores, and multilingual charity sites, incorporating WebSocket and other cutting-edge technologies.
 
-I am currently working for **Upwork**, where I have gained much experience in communication with clients and in international projects. 
+Currently, I am employed at **ITeam**, where I have further honed my skills and expertise. My role has exposed me to extensive client communication and involvement in international projects, allowing me to deepen my knowledge within my specialization.
 
 Now I have experience with:
 - creating a customized QR generator (Front-End)
