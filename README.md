@@ -2,7 +2,7 @@
 
 ### Welcome to my page!
 
-### I'm Yevhen, Fullstack developer from Ukraine 🇺🇦, currently living in Kyiv.
+I'm Yevhen, a Fullstack developer from Ukraine 🇺🇦, currently living in Kyiv.
 
 ### Short about me 🤷🏼‍♂️
 
