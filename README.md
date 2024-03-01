@@ -8,7 +8,9 @@ I'm Yevhen, a Fullstack developer from Ukraine 🇺🇦, currently living in Kyi
 
 I began my career at **PM Digital Transformation**, where I acquired my initial practical skills in website layout, JavaScript development, and WebSocket logic on the Front-End. I also gained experience in creating animations. During my tenure at the company, I progressed and eventually took on the role of **Front-End Lead**. In this capacity, I assumed greater responsibilities, mentored new team members, and collaborated closely with the backend team to develop websites, platforms, online stores, and multilingual charity sites, incorporating WebSocket and other cutting-edge technologies.
 
-Currently, I am employed at **ITeam**, where I have further honed my skills and expertise. My role has exposed me to extensive client communication and involvement in international projects, allowing me to deepen my knowledge within my specialization.
+Then I worked in **ITeam** where I have further honed my skills and expertise. My role has exposed me to extensive client communication and involvement in international projects, allowing me to deepen my knowledge within my specialization.
+
+Currently, I am employed at **Holy Water**
 
 Now I have experience with:
 - creating a customized QR generator (Front-End)
